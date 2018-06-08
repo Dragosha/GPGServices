@@ -1,0 +1,7 @@
+name: "GPGServices"
+
+platforms:
+  armv7-android:
+    context:
+        flags: ["-std=c++11"]
+        libs: ["c++_shared"]
